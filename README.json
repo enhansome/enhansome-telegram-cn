@@ -19,7 +19,7 @@
             "last_commit": "2026-08-09T01:08:39Z",
             "owner": "python-telegram-bot",
             "repo": "python-telegram-bot",
-            "stars": 29403
+            "stars": 29404
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-12T14:29:06Z",
             "owner": "eternnoir",
             "repo": "pyTelegramBotAPI",
-            "stars": 8763
+            "stars": 8764
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2025-01-11T06:02:13Z",
             "owner": "telegraf",
             "repo": "telegraf",
-            "stars": 9174
+            "stars": 9175
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-08-02T15:10:38Z",
             "owner": "atipugin",
             "repo": "telegram-bot-ruby",
-            "stars": 1426
+            "stars": 1425
           }
         },
         {
@@ -253,7 +253,7 @@
             "last_commit": "2025-03-20T16:07:18Z",
             "owner": "php-telegram-bot",
             "repo": "core",
-            "stars": 4020
+            "stars": 4019
           }
         },
         {
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:59.063Z",
+    "last_updated": "2026-08-13T07:47:12.876Z",
     "original_repository": "bitmasterv/awesome-telegram-cn",
     "original_repository_sha": "7e5bef8d43d0a87c82a07e1798c93d5af7212cb1",
     "enhanced_repository": "enhansome/enhansome-telegram-cn",

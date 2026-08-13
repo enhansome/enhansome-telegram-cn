@@ -59,8 +59,8 @@
 
 #### Python
 
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,403 | 🐛 35 | 🌐 Python | 📅 2026-08-09 – 我们已经为你开发了一个你无法拒绝的封装库
-* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,763 | 🐛 2 | 🌐 Python | 📅 2026-08-12 – 一个简单但可扩展的Python实现
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,404 | 🐛 35 | 🌐 Python | 📅 2026-08-09 – 我们已经为你开发了一个你无法拒绝的封装库
+* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,764 | 🐛 2 | 🌐 Python | 📅 2026-08-12 – 一个简单但可扩展的Python实现
 * [telepot](https://github.com/nickoala/telepot) ⚠️ Archived – Telegram Bot API的Python框架
 * [tgbot](https://github.com/PaulSonOfLars/tgbot) ⚠️ Archived - 模块化电报组管理机器人
 * [django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot) ⭐ 143 | 🐛 21 | 🌐 Python | 📅 2022-12-26 – 用于编写Telegram机器人的Django应用程序。只需定义命令以及如何处理它们。
@@ -70,7 +70,7 @@
 #### Javascript/Node
 
 * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,199 | 🐛 28 | 🌐 TypeScript | 📅 2026-07-14 – NodeJS的Telegram Bot API
-* [Telegraf](https://github.com/telegraf/telegraf) ⭐ 9,174 | 🐛 79 | 🌐 TypeScript | 📅 2025-01-11 – Telegram bot框架（javascript，node.js）
+* [Telegraf](https://github.com/telegraf/telegraf) ⭐ 9,175 | 🐛 79 | 🌐 TypeScript | 📅 2025-01-11 – Telegram bot框架（javascript，node.js）
 * [telegram.link](https://github.com/enricostara/telegram.link) ⭐ 334 | 🐛 27 | 🌐 JavaScript | 📅 2023-07-14 – 电报API库（javascript，node.js）
 * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) ⭐ 137 | 🐛 19 | 🌐 JavaScript | 📅 2016-11-03 – Telegram Bot API的客户端封装
 
@@ -85,13 +85,13 @@
 
 #### Rails
 
-* [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) ⭐ 1,426 | 🐛 0 | 🌐 Ruby | 📅 2026-08-02 – 用于Telegram的Bot API的Ruby封装
+* [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) ⭐ 1,425 | 🐛 0 | 🌐 Ruby | 📅 2026-08-02 – 用于Telegram的Bot API的Ruby封装
 * [telegram\_bot](https://github.com/eljojo/telegram_bot) ⚠️ Archived – Telegram的Bot API的Ruby客户端
 * [telegram-rb](https://github.com/ssut/telegram-rb) ⚠️ Archived – 与Telegram-CLI通信的Ruby封装
 
 #### PHP
 
-* [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) ⭐ 4,020 | 🐛 84 | 🌐 PHP | 📅 2025-03-20 – 基于官方Telegram Bot API的PHP Telegram Bot
+* [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) ⭐ 4,019 | 🐛 84 | 🌐 PHP | 📅 2025-03-20 – 基于官方Telegram Bot API的PHP Telegram Bot
 * [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,306 | 🐛 28 | 🌐 PHP | 📅 2026-07-25 – Telegram Bot API PHP SDK。让您轻松构建Telegram Bots！
 * [TelegramBot/Api](https://github.com/TelegramBot/Api) ⭐ 1,192 | 🐛 65 | 🌐 PHP | 📅 2025-07-10 – Telegram BOT API的原生PHP封装
 
