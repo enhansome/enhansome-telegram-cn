@@ -59,8 +59,8 @@
 
 #### Python
 
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,404 | 🐛 35 | 🌐 Python | 📅 2026-08-09 – 我们已经为你开发了一个你无法拒绝的封装库
-* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,764 | 🐛 2 | 🌐 Python | 📅 2026-08-12 – 一个简单但可扩展的Python实现
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,408 | 🐛 35 | 🌐 Python | 📅 2026-08-09 – 我们已经为你开发了一个你无法拒绝的封装库
+* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,765 | 🐛 2 | 🌐 Python | 📅 2026-08-13 – 一个简单但可扩展的Python实现
 * [telepot](https://github.com/nickoala/telepot) ⚠️ Archived – Telegram Bot API的Python框架
 * [tgbot](https://github.com/PaulSonOfLars/tgbot) ⚠️ Archived - 模块化电报组管理机器人
 * [django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot) ⭐ 143 | 🐛 21 | 🌐 Python | 📅 2022-12-26 – 用于编写Telegram机器人的Django应用程序。只需定义命令以及如何处理它们。
@@ -92,8 +92,8 @@
 #### PHP
 
 * [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) ⭐ 4,019 | 🐛 84 | 🌐 PHP | 📅 2025-03-20 – 基于官方Telegram Bot API的PHP Telegram Bot
-* [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,306 | 🐛 28 | 🌐 PHP | 📅 2026-07-25 – Telegram Bot API PHP SDK。让您轻松构建Telegram Bots！
-* [TelegramBot/Api](https://github.com/TelegramBot/Api) ⭐ 1,192 | 🐛 65 | 🌐 PHP | 📅 2025-07-10 – Telegram BOT API的原生PHP封装
+* [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,305 | 🐛 28 | 🌐 PHP | 📅 2026-07-25 – Telegram Bot API PHP SDK。让您轻松构建Telegram Bots！
+* [TelegramBot/Api](https://github.com/TelegramBot/Api) ⭐ 1,193 | 🐛 65 | 🌐 PHP | 📅 2025-07-10 – Telegram BOT API的原生PHP封装
 
 #### Go
 
@@ -110,7 +110,7 @@
 #### C++
 
 * [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) ⭐ 1,231 | 🐛 168 | 🌐 C++ | 📅 2024-07-29 - A Arduino Telegram Bot API
-* [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) ⭐ 1,185 | 🐛 70 | 🌐 C++ | 📅 2026-08-12 – Telegram bot API 的 C++ 库
+* [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) ⭐ 1,185 | 🐛 71 | 🌐 C++ | 📅 2026-08-13 – Telegram bot API 的 C++ 库
 * [telegram-bot-api](https://github.com/StefanoBelli/telegram-bot-api) ⭐ 44 | 🐛 0 | 🌐 C++ | 📅 2020-03-30 - C++ Telegram Bot API
 
 #### Kotlin
@@ -180,4 +180,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
