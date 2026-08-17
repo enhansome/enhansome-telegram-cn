@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T02:16:59Z",
+            "last_commit": "2026-08-16T21:13:26Z",
             "owner": "python-telegram-bot",
             "repo": "python-telegram-bot",
-            "stars": 29414
+            "stars": 29416
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T21:44:09Z",
+            "last_commit": "2026-08-16T10:39:34Z",
             "owner": "eternnoir",
             "repo": "pyTelegramBotAPI",
-            "stars": 8763
+            "stars": 8764
           }
         },
         {
@@ -106,7 +106,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-14T16:34:40Z",
+            "last_commit": "2026-08-16T21:02:06Z",
             "owner": "yagop",
             "repo": "node-telegram-bot-api",
             "stars": 9200
@@ -123,7 +123,7 @@
             "last_commit": "2025-01-11T06:02:13Z",
             "owner": "telegraf",
             "repo": "telegraf",
-            "stars": 9174
+            "stars": 9177
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2026-06-16T23:24:31Z",
             "owner": "tucnak",
             "repo": "telebot",
-            "stars": 4632
+            "stars": 4631
           }
         },
         {
@@ -383,7 +383,7 @@
             "last_commit": "2024-07-29T06:31:43Z",
             "owner": "witnessmenow",
             "repo": "Universal-Arduino-Telegram-Bot",
-            "stars": 1228
+            "stars": 1229
           }
         },
         {
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:54:13.930Z",
+    "last_updated": "2026-08-17T07:11:12.479Z",
     "original_repository": "bitmasterv/awesome-telegram-cn",
     "original_repository_sha": "7e5bef8d43d0a87c82a07e1798c93d5af7212cb1",
     "enhanced_repository": "enhansome/enhansome-telegram-cn",
