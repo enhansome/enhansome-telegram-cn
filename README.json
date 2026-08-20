@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-18T20:27:59Z",
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8761
+                    "stars": 8762
                   }
                 },
                 {
@@ -116,7 +116,7 @@
                     "last_commit": "2026-08-18T13:56:45Z",
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9200
+                    "stars": 9201
                   }
                 },
                 {
@@ -287,7 +287,7 @@
                     "last_commit": "2026-08-18T22:46:56Z",
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3303
+                    "stars": 3302
                   }
                 },
                 {
@@ -376,7 +376,7 @@
                     "last_commit": "2026-08-12T07:39:26Z",
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5506
+                    "stars": 5505
                   }
                 },
                 {
@@ -425,10 +425,10 @@
                     "archived": false,
                     "id": 38309014,
                     "language": "C++",
-                    "last_commit": "2026-08-13T12:53:33Z",
+                    "last_commit": "2026-08-19T18:57:47Z",
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
-                    "stars": 1185
+                    "stars": 1186
                   }
                 },
                 {
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:56:09.829Z",
+    "last_updated": "2026-08-20T07:00:32.649Z",
     "original_repository": "bitmasterv/awesome-telegram-cn",
     "original_repository_id": 154787094,
     "original_repository_sha": "7e5bef8d43d0a87c82a07e1798c93d5af7212cb1",
