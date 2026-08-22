@@ -19,7 +19,7 @@
                     "last_commit": "2026-08-16T21:13:26Z",
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29418
+                    "stars": 29419
                   }
                 },
                 {
@@ -113,10 +113,10 @@
                     "archived": false,
                     "id": 38216778,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T17:28:31Z",
+                    "last_commit": "2026-08-21T17:33:48Z",
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9199
+                    "stars": 9198
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2025-01-11T06:02:13Z",
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9179
+                    "stars": 9178
                   }
                 },
                 {
@@ -287,7 +287,7 @@
                     "last_commit": "2026-08-20T10:35:28Z",
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3302
+                    "stars": 3303
                   }
                 },
                 {
@@ -376,7 +376,7 @@
                     "last_commit": "2026-08-12T07:39:26Z",
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5504
+                    "stars": 5503
                   }
                 },
                 {
@@ -428,7 +428,7 @@
                     "last_commit": "2026-08-21T00:48:22Z",
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
-                    "stars": 1186
+                    "stars": 1187
                   }
                 },
                 {
@@ -498,7 +498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:01:47.540Z",
+    "last_updated": "2026-08-22T06:54:29.037Z",
     "original_repository": "bitmasterv/awesome-telegram-cn",
     "original_repository_id": 154787094,
     "original_repository_sha": "7e5bef8d43d0a87c82a07e1798c93d5af7212cb1",
