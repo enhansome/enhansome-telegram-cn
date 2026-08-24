@@ -116,7 +116,7 @@
                     "last_commit": "2026-08-21T17:33:48Z",
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9201
+                    "stars": 9202
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2025-01-11T06:02:13Z",
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9181
+                    "stars": 9182
                   }
                 },
                 {
@@ -146,7 +146,7 @@
                     "last_commit": "2023-07-14T21:18:11Z",
                     "owner": "enricostara",
                     "repo": "telegram.link",
-                    "stars": 334
+                    "stars": 333
                   }
                 },
                 {
@@ -168,6 +168,28 @@
               "description": null,
               "node_type": "group",
               "title": "Javascript/Node"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ts-telegraf-decorators",
+                  "description": "这是一个简单的库，允许你使用装饰器和TypeScript。基于telegraf",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 149026792,
+                    "language": "TypeScript",
+                    "last_commit": "2023-10-30T21:30:57Z",
+                    "owner": "panarama360",
+                    "repo": "ts-telegraf-decorators",
+                    "stars": 18
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Typescript"
             },
             {
               "children": [
@@ -498,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:14:49.879Z",
+    "last_updated": "2026-08-24T14:34:55.401Z",
     "original_repository": "bitmasterv/awesome-telegram-cn",
     "original_repository_id": 154787094,
     "original_repository_sha": "7e5bef8d43d0a87c82a07e1798c93d5af7212cb1",
