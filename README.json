@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-22T22:38:47Z",
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8762
+                    "stars": 8765
                   }
                 },
                 {
@@ -113,10 +113,10 @@
                     "archived": false,
                     "id": 38216778,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T17:33:48Z",
+                    "last_commit": "2026-08-24T20:48:28Z",
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9202
+                    "stars": 9203
                   }
                 },
                 {
@@ -239,7 +239,7 @@
                     "archived": false,
                     "id": 38169179,
                     "language": "Ruby",
-                    "last_commit": "2026-08-02T15:10:38Z",
+                    "last_commit": "2026-08-24T16:57:57Z",
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
                     "stars": 1426
@@ -324,7 +324,7 @@
                     "last_commit": "2025-07-10T12:31:50Z",
                     "owner": "TelegramBot",
                     "repo": "Api",
-                    "stars": 1193
+                    "stars": 1194
                   }
                 }
               ],
@@ -398,7 +398,7 @@
                     "last_commit": "2026-08-22T22:11:14Z",
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5503
+                    "stars": 5504
                   }
                 },
                 {
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:55.401Z",
+    "last_updated": "2026-08-25T06:26:38.874Z",
     "original_repository": "bitmasterv/awesome-telegram-cn",
     "original_repository_id": 154787094,
     "original_repository_sha": "7e5bef8d43d0a87c82a07e1798c93d5af7212cb1",
