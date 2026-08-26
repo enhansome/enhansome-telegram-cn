@@ -19,7 +19,7 @@
                     "last_commit": "2026-08-23T20:54:04Z",
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29426
+                    "stars": 29429
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-22T22:38:47Z",
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8765
+                    "stars": 8766
                   }
                 },
                 {
@@ -49,7 +49,7 @@
                     "last_commit": "2021-03-09T06:27:24Z",
                     "owner": "nickoala",
                     "repo": "telepot",
-                    "stars": 2411
+                    "stars": 2412
                   }
                 },
                 {
@@ -116,7 +116,7 @@
                     "last_commit": "2026-08-24T20:48:28Z",
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9203
+                    "stars": 9202
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2025-01-11T06:02:13Z",
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9182
+                    "stars": 9181
                   }
                 },
                 {
@@ -239,7 +239,7 @@
                     "archived": false,
                     "id": 38169179,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T16:57:57Z",
+                    "last_commit": "2026-08-25T21:30:41Z",
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
                     "stars": 1426
@@ -309,7 +309,7 @@
                     "last_commit": "2026-08-20T10:35:28Z",
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3304
+                    "stars": 3303
                   }
                 },
                 {
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:02:48.663Z",
+    "last_updated": "2026-08-26T07:03:14.190Z",
     "original_repository": "bitmasterv/awesome-telegram-cn",
     "original_repository_id": 154787094,
     "original_repository_sha": "7e5bef8d43d0a87c82a07e1798c93d5af7212cb1",
