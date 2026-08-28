@@ -19,8 +19,9 @@
                     "last_commit": "2026-08-23T20:54:04Z",
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29435
-                  }
+                    "stars": 29436
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -31,11 +32,12 @@
                     "archived": false,
                     "id": 38095954,
                     "language": "Python",
-                    "last_commit": "2026-08-22T22:38:47Z",
+                    "last_commit": "2026-08-28T11:24:54Z",
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
                     "stars": 8767
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "nickoala",
                     "repo": "telepot",
                     "stars": 2412
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "PaulSonOfLars",
                     "repo": "tgbot",
                     "stars": 753
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "jlmadurga",
                     "repo": "django-telegram-bot",
                     "stars": 143
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -95,7 +100,8 @@
                     "owner": "sashgorokhov",
                     "repo": "python-telegram-handler",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 }
               ],
               "description": null,
@@ -113,11 +119,12 @@
                     "archived": false,
                     "id": 38216778,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T20:48:28Z",
+                    "last_commit": "2026-08-28T10:14:29Z",
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9204
-                  }
+                    "stars": 9203
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -131,8 +138,9 @@
                     "last_commit": "2025-01-11T06:02:13Z",
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9180
-                  }
+                    "stars": 9179
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -147,7 +155,8 @@
                     "owner": "enricostara",
                     "repo": "telegram.link",
                     "stars": 333
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -162,7 +171,8 @@
                     "owner": "depoio",
                     "repo": "node-telegram-bot",
                     "stars": 137
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 }
               ],
               "description": null,
@@ -184,7 +194,8 @@
                     "owner": "panarama360",
                     "repo": "ts-telegraf-decorators",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 }
               ],
               "description": null,
@@ -206,7 +217,8 @@
                     "owner": "sochix",
                     "repo": "TLSharp",
                     "stars": 995
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -221,7 +233,8 @@
                     "owner": "MrRoundRobin",
                     "repo": "Telegram.Bot",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 }
               ],
               "description": null,
@@ -243,7 +256,8 @@
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
                     "stars": 1426
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -258,7 +272,8 @@
                     "owner": "eljojo",
                     "repo": "telegram_bot",
                     "stars": 296
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -273,7 +288,8 @@
                     "owner": "ssut",
                     "repo": "telegram-rb",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 }
               ],
               "description": null,
@@ -295,7 +311,8 @@
                     "owner": "php-telegram-bot",
                     "repo": "core",
                     "stars": 4018
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -310,7 +327,8 @@
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
                     "stars": 3303
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -325,7 +343,8 @@
                     "owner": "TelegramBot",
                     "repo": "Api",
                     "stars": 1194
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 }
               ],
               "description": null,
@@ -347,7 +366,8 @@
                     "owner": "tucnak",
                     "repo": "telebot",
                     "stars": 4629
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -362,7 +382,8 @@
                     "owner": "yagop",
                     "repo": "telegram-bot",
                     "stars": 840
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -377,7 +398,8 @@
                     "owner": "eternnoir",
                     "repo": "gotelebot",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 }
               ],
               "description": null,
@@ -399,7 +421,8 @@
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
                     "stars": 5506
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -414,7 +437,8 @@
                     "owner": "telegram-s",
                     "repo": "telegram-api-old",
                     "stars": 142
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 }
               ],
               "description": null,
@@ -436,7 +460,8 @@
                     "owner": "witnessmenow",
                     "repo": "Universal-Arduino-Telegram-Bot",
                     "stars": 1230
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -451,7 +476,8 @@
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
                     "stars": 1187
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -466,7 +492,8 @@
                     "owner": "StefanoBelli",
                     "repo": "xxtelebot",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 }
               ],
               "description": null,
@@ -488,7 +515,8 @@
                     "owner": "badoualy",
                     "repo": "kotlogram",
                     "stars": 238
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 },
                 {
                   "node_type": "item",
@@ -503,7 +531,8 @@
                     "owner": "yanex",
                     "repo": "kotlin-telegram-bot-api",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:34:24.605Z"
                 }
               ],
               "description": null,
@@ -520,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:35:01.251Z",
+    "last_updated": "2026-08-28T18:34:24.605Z",
     "original_repository_info": {
       "archived": false,
       "id": 154787094,
@@ -528,7 +557,7 @@
       "last_commit": "2018-10-26T07:35:46Z",
       "owner": "bitmasterv",
       "repo": "awesome-telegram-cn",
-      "stars": 184
+      "stars": 185
     },
     "original_repository_sha": "7e5bef8d43d0a87c82a07e1798c93d5af7212cb1",
     "enhanced_repository": "enhansome/enhansome-telegram-cn",
