@@ -14,12 +14,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "We have made you a wrapper you can't refuse",
+                    "homepage": "https://python-telegram-bot.org",
                     "id": 38696925,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-23T20:54:04Z",
+                    "open_issues": 41,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29436
+                    "stars": 29437,
+                    "topics": [
+                      "bot",
+                      "chatbot",
+                      "framework",
+                      "python",
+                      "telegram"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -30,12 +41,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python Telegram bot api.",
+                    "homepage": null,
                     "id": 38095954,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-28T11:24:54Z",
+                    "open_issues": 5,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8767
+                    "stars": 8766,
+                    "topics": [
+                      "bot-api",
+                      "python-api",
+                      "telegram",
+                      "telegram-bot",
+                      "telegram-bot-api"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -46,12 +68,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Python framework for Telegram Bot API",
+                    "homepage": null,
                     "id": 38793780,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-03-09T06:27:24Z",
+                    "open_issues": 107,
                     "owner": "nickoala",
                     "repo": "telepot",
-                    "stars": 2412
+                    "stars": 2412,
+                    "topics": [
+                      "python",
+                      "telegram",
+                      "telegram-bot"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -62,12 +93,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Modular telegram group management bot",
+                    "homepage": null,
                     "id": 98918956,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-09-30T11:09:56Z",
+                    "open_issues": 9,
                     "owner": "PaulSonOfLars",
                     "repo": "tgbot",
-                    "stars": 753
+                    "stars": 753,
+                    "topics": [
+                      "bot",
+                      "database",
+                      "postgres",
+                      "python-bot",
+                      "python3",
+                      "sqlalchemy-database",
+                      "telegram",
+                      "tgbot"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -78,12 +123,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Django app to write Telegram bots. Just define commands and how to handle them.",
+                    "homepage": null,
                     "id": 50352758,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-12-26T20:23:19Z",
+                    "open_issues": 21,
                     "owner": "jlmadurga",
                     "repo": "django-telegram-bot",
-                    "stars": 143
+                    "stars": 143,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -94,12 +144,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A python logging handler that sends logs via Telegram Bot Api.",
+                    "homepage": null,
                     "id": 56550225,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-02-09T11:13:14Z",
+                    "open_issues": 7,
                     "owner": "sashgorokhov",
                     "repo": "python-telegram-handler",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": [
+                      "logging",
+                      "python",
+                      "telegram"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 }
@@ -117,12 +176,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Telegram Bot API for NodeJS",
+                    "homepage": null,
                     "id": 38216778,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T10:14:29Z",
+                    "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9203
+                    "stars": 9203,
+                    "topics": [
+                      "api",
+                      "bot",
+                      "bot-framework",
+                      "chatbot",
+                      "nodejs",
+                      "telegram"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -133,12 +204,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Modern Telegram Bot Framework for Node.js",
+                    "homepage": "https://telegraf.js.org",
                     "id": 56398352,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-01-11T06:02:13Z",
+                    "open_issues": 80,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9179
+                    "stars": 9178,
+                    "topics": [
+                      "bot",
+                      "bot-api",
+                      "bot-framework",
+                      "hacktoberfest",
+                      "middleware",
+                      "telegraf",
+                      "telegram",
+                      "telegram-bot",
+                      "telegram-bot-api",
+                      "telegram-bots"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -149,12 +236,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Telegram API library (javascript, node.js)",
+                    "homepage": "www.telegram.link",
                     "id": 23577499,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-14T21:18:11Z",
+                    "open_issues": 27,
                     "owner": "enricostara",
                     "repo": "telegram.link",
-                    "stars": 333
+                    "stars": 333,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -165,12 +257,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Client wrapper for Telegram Bot API (Under heavy development)",
+                    "homepage": null,
                     "id": 38008205,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-11-03T07:15:27Z",
+                    "open_issues": 19,
                     "owner": "depoio",
                     "repo": "node-telegram-bot",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 }
@@ -188,12 +285,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "ts-telegraf-decorators",
+                    "homepage": null,
                     "id": 149026792,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2023-10-30T21:30:57Z",
+                    "open_issues": 9,
                     "owner": "panarama360",
                     "repo": "ts-telegraf-decorators",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "bot",
+                      "bot-framework",
+                      "decorators",
+                      "telegraf",
+                      "telegraf-framework",
+                      "telegram",
+                      "telegram-bot-api",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 }
@@ -211,12 +322,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Telegram client library implemented in C#",
+                    "homepage": null,
                     "id": 43273081,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2021-12-05T15:14:06Z",
+                    "open_issues": 381,
                     "owner": "sochix",
                     "repo": "TLSharp",
-                    "stars": 995
+                    "stars": 995,
+                    "topics": [
+                      "telegram",
+                      "telegram-api",
+                      "tlsharp"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -227,12 +347,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ".NET Client for Telegram Bot API",
+                    "homepage": "https://telegrambots.github.io/book",
                     "id": 150339600,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2023-03-14T08:50:29Z",
+                    "open_issues": 1,
                     "owner": "MrRoundRobin",
                     "repo": "Telegram.Bot",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 }
@@ -250,12 +375,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ruby wrapper for Telegram's Bot API",
+                    "homepage": "https://core.telegram.org/bots/api",
                     "id": 38169179,
                     "language": "Ruby",
+                    "license": "WTFPL",
                     "last_commit": "2026-08-25T21:30:41Z",
+                    "open_issues": 1,
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
-                    "stars": 1426
+                    "stars": 1426,
+                    "topics": [
+                      "ruby",
+                      "telegram",
+                      "telegram-bot"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -266,12 +400,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A charismatic Ruby client for Telegram's Bot API",
+                    "homepage": null,
                     "id": 38015820,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2023-09-14T21:38:37Z",
+                    "open_issues": 23,
                     "owner": "eljojo",
                     "repo": "telegram_bot",
-                    "stars": 296
+                    "stars": 296,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -282,12 +421,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Ruby wrapper that communicates with the Telegram-CLI.",
+                    "homepage": "https://github.com/ssut/telegram-rb",
                     "id": 38536023,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2018-12-06T15:23:09Z",
+                    "open_issues": 5,
                     "owner": "ssut",
                     "repo": "telegram-rb",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 }
@@ -305,12 +449,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PHP Telegram Bot based on the official Telegram Bot API",
+                    "homepage": null,
                     "id": 38116958,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2025-03-20T16:07:18Z",
+                    "open_issues": 84,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4018
+                    "stars": 4018,
+                    "topics": [
+                      "bot-api",
+                      "hacktoberfest",
+                      "php",
+                      "php-telegram-bot",
+                      "sdk",
+                      "sdk-php",
+                      "telegram",
+                      "telegram-api",
+                      "telegram-bot"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -321,12 +480,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🤖 Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.",
+                    "homepage": "https://telegram-bot-sdk.com",
                     "id": 38233033,
                     "language": "PHP",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-20T10:35:28Z",
+                    "open_issues": 28,
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3303
+                    "stars": 3303,
+                    "topics": [
+                      "bot",
+                      "bot-framework",
+                      "botkit",
+                      "chatbot",
+                      "composer-packages",
+                      "laravel",
+                      "laravel-package",
+                      "laravel-telegram",
+                      "php",
+                      "php-sdk",
+                      "telegram",
+                      "telegram-bot",
+                      "telegram-bot-api",
+                      "telegram-bot-sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -337,12 +516,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Native PHP Wrapper for Telegram BOT API",
+                    "homepage": null,
                     "id": 38112540,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2025-07-10T12:31:50Z",
+                    "open_issues": 65,
                     "owner": "TelegramBot",
                     "repo": "Api",
-                    "stars": 1194
+                    "stars": 1194,
+                    "topics": [
+                      "api-wrapper",
+                      "bot-api",
+                      "sdk",
+                      "telegram-bot"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 }
@@ -360,12 +549,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Telebot is a Telegram bot framework in Go.",
+                    "homepage": null,
                     "id": 38069477,
                     "language": "Go",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-16T23:24:31Z",
+                    "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4629
+                    "stars": 4629,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -376,12 +570,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "UNMAINTAINED - A Telegram Bot based on plugins",
+                    "homepage": null,
                     "id": 21347647,
                     "language": "Lua",
+                    "license": "GPL-2.0",
                     "last_commit": "2018-10-14T09:09:36Z",
+                    "open_issues": 116,
                     "owner": "yagop",
                     "repo": "telegram-bot",
-                    "stars": 840
+                    "stars": 840,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -392,12 +591,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "http://godoc.org/github.com/eternnoir/gotelebot",
                     "id": 41355016,
                     "language": "Go",
+                    "license": "GPL-2.0",
                     "last_commit": "2021-04-12T07:47:58Z",
+                    "open_issues": 3,
                     "owner": "eternnoir",
                     "repo": "gotelebot",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 }
@@ -415,12 +619,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java library to create bots using Telegram Bots API",
+                    "homepage": "https://telegram.me/JavaBotsApi",
                     "id": 49610798,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2026-08-22T22:11:14Z",
+                    "open_issues": 194,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5506
+                    "stars": 5505,
+                    "topics": [
+                      "java",
+                      "java-library",
+                      "jitpack",
+                      "maven",
+                      "polling",
+                      "spring-boot",
+                      "telegram",
+                      "telegram-bot",
+                      "telegram-bots-api",
+                      "webhook"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -431,12 +651,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Telegram Api library for java",
+                    "homepage": null,
                     "id": 14195683,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2017-04-18T04:54:54Z",
+                    "open_issues": 47,
                     "owner": "telegram-s",
                     "repo": "telegram-api-old",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 }
@@ -454,12 +679,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use Telegram on your Arduino (ESP8266 or Wifi-101 boards)",
+                    "homepage": null,
                     "id": 61955836,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2024-07-29T06:31:43Z",
+                    "open_issues": 168,
                     "owner": "witnessmenow",
                     "repo": "Universal-Arduino-Telegram-Bot",
-                    "stars": 1230
+                    "stars": 1230,
+                    "topics": [
+                      "arduino",
+                      "telegram",
+                      "wifi"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -470,12 +704,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C++ library for Telegram bot API",
+                    "homepage": "http://reo7sp.github.io/tgbot-cpp/",
                     "id": 38309014,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T00:48:22Z",
+                    "open_issues": 67,
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
-                    "stars": 1187
+                    "stars": 1188,
+                    "topics": [
+                      "bot",
+                      "cpp",
+                      "telegram",
+                      "telegram-api",
+                      "telegram-bot"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -486,12 +731,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "**DISCONTINUED** A simple C++11 Telegram Bot API implementation",
+                    "homepage": "https://stefanobelli.github.io/xxtelebot",
                     "id": 103251661,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2020-03-30T15:20:32Z",
+                    "open_issues": 0,
                     "owner": "StefanoBelli",
                     "repo": "xxtelebot",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "api",
+                      "bot",
+                      "cplusplus",
+                      "cpp",
+                      "cxx11",
+                      "telegram",
+                      "telegram-bot",
+                      "telegram-bot-api",
+                      "tgbot"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 }
@@ -509,12 +769,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Telegram API for Java/Kotlin easy to use and straightforward",
+                    "homepage": "http://kotlogram.badoualy.com",
                     "id": 48944818,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2018-07-24T16:37:35Z",
+                    "open_issues": 11,
                     "owner": "badoualy",
                     "repo": "kotlogram",
-                    "stars": 238
+                    "stars": 238,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 },
@@ -525,12 +790,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kotlin Telegram Bot API",
+                    "homepage": null,
                     "id": 47477451,
                     "language": "Kotlin",
+                    "license": null,
                     "last_commit": "2017-12-07T18:50:04Z",
+                    "open_issues": 2,
                     "owner": "yanex",
                     "repo": "kotlin-telegram-bot-api",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
                 }
@@ -549,15 +819,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:34:24.605Z",
+    "last_updated": "2026-08-29T04:54:34.896Z",
     "original_repository_info": {
       "archived": false,
+      "description": "telegram 开发资源、机器人资源整理",
+      "homepage": null,
       "id": 154787094,
       "language": null,
+      "license": null,
       "last_commit": "2018-10-26T07:35:46Z",
+      "open_issues": 5,
       "owner": "bitmasterv",
       "repo": "awesome-telegram-cn",
-      "stars": 185
+      "stars": 185,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "chinese",
+        "telegram",
+        "telegram-bot"
+      ]
     },
     "original_repository_sha": "7e5bef8d43d0a87c82a07e1798c93d5af7212cb1",
     "enhanced_repository": "enhansome/enhansome-telegram-cn",
