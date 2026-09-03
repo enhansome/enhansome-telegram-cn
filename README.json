@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-01T22:44:34Z",
-                    "open_issues": 37,
+                    "open_issues": 38,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29442,
+                    "stars": 29447,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -102,7 +102,7 @@
                     "open_issues": 9,
                     "owner": "PaulSonOfLars",
                     "repo": "tgbot",
-                    "stars": 753,
+                    "stars": 754,
                     "topics": [
                       "bot",
                       "database",
@@ -181,11 +181,11 @@
                     "id": 38216778,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-30T22:44:44Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-09-03T01:33:30Z",
+                    "open_issues": 3,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9204,
+                    "stars": 9203,
                     "topics": [
                       "api",
                       "bot",
@@ -522,7 +522,7 @@
                     "language": "PHP",
                     "license": "MIT",
                     "last_commit": "2025-07-10T12:31:50Z",
-                    "open_issues": 65,
+                    "open_issues": 63,
                     "owner": "TelegramBot",
                     "repo": "Api",
                     "stars": 1193,
@@ -558,7 +558,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4629,
+                    "stars": 4630,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T11:09:47.351Z",
+    "last_updated": "2026-09-03T11:05:58.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
