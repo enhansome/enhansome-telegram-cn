@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-06T01:37:00Z",
-                    "open_issues": 39,
+                    "open_issues": 40,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29447,
+                    "stars": 29452,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -181,11 +181,11 @@
                     "id": 38216778,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T09:03:31Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-09-07T11:11:41Z",
+                    "open_issues": 0,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9203,
+                    "stars": 9204,
                     "topics": [
                       "api",
                       "bot",
@@ -213,7 +213,7 @@
                     "open_issues": 80,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9178,
+                    "stars": 9179,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -489,7 +489,7 @@
                     "open_issues": 29,
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3301,
+                    "stars": 3302,
                     "topics": [
                       "bot",
                       "bot-framework",
@@ -558,7 +558,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4630,
+                    "stars": 4631,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -624,8 +624,8 @@
                     "id": 49610798,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T00:55:24Z",
-                    "open_issues": 197,
+                    "last_commit": "2026-09-07T00:36:48Z",
+                    "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
                     "stars": 5512,
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T10:48:40.861Z",
+    "last_updated": "2026-09-07T12:19:17.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
