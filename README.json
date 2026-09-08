@@ -23,7 +23,7 @@
                     "open_issues": 40,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29452,
+                    "stars": 29456,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -47,10 +47,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-08-28T11:24:54Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8773,
+                    "stars": 8774,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -181,11 +181,11 @@
                     "id": 38216778,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T11:11:41Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-09-07T23:49:00Z",
+                    "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9204,
+                    "stars": 9206,
                     "topics": [
                       "api",
                       "bot",
@@ -709,7 +709,7 @@
                     "id": 38309014,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-08-21T00:48:22Z",
+                    "last_commit": "2026-09-07T13:38:49Z",
                     "open_issues": 67,
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:19:17.004Z",
+    "last_updated": "2026-09-08T11:08:44.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
