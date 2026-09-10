@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-06T01:37:00Z",
-                    "open_issues": 39,
+                    "open_issues": 40,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29459,
+                    "stars": 29461,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -50,7 +50,7 @@
                     "open_issues": 6,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8774,
+                    "stars": 8775,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -628,7 +628,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5513,
+                    "stars": 5514,
                     "topics": [
                       "java",
                       "java-library",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:12:47.826Z",
+    "last_updated": "2026-09-10T11:09:33.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
@@ -831,7 +831,7 @@
       "open_issues": 5,
       "owner": "bitmasterv",
       "repo": "awesome-telegram-cn",
-      "stars": 185,
+      "stars": 186,
       "topics": [
         "awesome",
         "awesome-list",
