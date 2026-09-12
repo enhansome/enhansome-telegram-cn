@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-10T21:37:40Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
                     "stars": 29461,
@@ -46,8 +46,8 @@
                     "id": 38095954,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-08-28T11:24:54Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-12T07:08:43Z",
+                    "open_issues": 5,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
                     "stars": 8775,
@@ -185,7 +185,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9206,
+                    "stars": 9207,
                     "topics": [
                       "api",
                       "bot",
@@ -558,7 +558,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4632,
+                    "stars": 4631,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -713,7 +713,7 @@
                     "open_issues": 67,
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
-                    "stars": 1188,
+                    "stars": 1189,
                     "topics": [
                       "bot",
                       "cpp",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:09:19.316Z",
+    "last_updated": "2026-09-12T10:37:37.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
