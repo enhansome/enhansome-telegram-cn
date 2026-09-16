@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-15T05:07:46Z",
-                    "open_issues": 31,
+                    "open_issues": 30,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29465,
+                    "stars": 29466,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -77,7 +77,7 @@
                     "open_issues": 107,
                     "owner": "nickoala",
                     "repo": "telepot",
-                    "stars": 2412,
+                    "stars": 2411,
                     "topics": [
                       "python",
                       "telegram",
@@ -132,7 +132,7 @@
                     "open_issues": 21,
                     "owner": "jlmadurga",
                     "repo": "django-telegram-bot",
-                    "stars": 143,
+                    "stars": 142,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -558,7 +558,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4632,
+                    "stars": 4633,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -713,7 +713,7 @@
                     "open_issues": 0,
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
-                    "stars": 1189,
+                    "stars": 1191,
                     "topics": [
                       "bot",
                       "cpp",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T11:36:32.341Z",
+    "last_updated": "2026-09-16T11:23:46.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
