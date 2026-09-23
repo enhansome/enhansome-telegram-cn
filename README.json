@@ -23,7 +23,7 @@
                     "open_issues": 29,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29487,
+                    "stars": 29490,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -50,7 +50,7 @@
                     "open_issues": 2,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8783,
+                    "stars": 8781,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -102,7 +102,7 @@
                     "open_issues": 9,
                     "owner": "PaulSonOfLars",
                     "repo": "tgbot",
-                    "stars": 754,
+                    "stars": 755,
                     "topics": [
                       "bot",
                       "database",
@@ -213,7 +213,7 @@
                     "open_issues": 80,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9188,
+                    "stars": 9190,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -384,7 +384,7 @@
                     "open_issues": 1,
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
-                    "stars": 1426,
+                    "stars": 1425,
                     "topics": [
                       "ruby",
                       "telegram",
@@ -628,7 +628,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5514,
+                    "stars": 5515,
                     "topics": [
                       "java",
                       "java-library",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T11:26:44.679Z",
+    "last_updated": "2026-09-23T11:24:21.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
@@ -831,7 +831,7 @@
       "open_issues": 5,
       "owner": "bitmasterv",
       "repo": "awesome-telegram-cn",
-      "stars": 186,
+      "stars": 187,
       "topics": [
         "awesome",
         "awesome-list",
