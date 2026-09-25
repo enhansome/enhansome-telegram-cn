@@ -23,7 +23,7 @@
                     "open_issues": 29,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29493,
+                    "stars": 29490,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -50,7 +50,7 @@
                     "open_issues": 2,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8782,
+                    "stars": 8781,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -209,7 +209,7 @@
                     "id": 56398352,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T11:04:44Z",
+                    "last_commit": "2026-09-24T15:15:55Z",
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
@@ -384,7 +384,7 @@
                     "open_issues": 1,
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
-                    "stars": 1425,
+                    "stars": 1424,
                     "topics": [
                       "ruby",
                       "telegram",
@@ -522,7 +522,7 @@
                     "language": "PHP",
                     "license": "MIT",
                     "last_commit": "2025-07-10T12:31:50Z",
-                    "open_issues": 63,
+                    "open_issues": 64,
                     "owner": "TelegramBot",
                     "repo": "Api",
                     "stars": 1195,
@@ -628,7 +628,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5514,
+                    "stars": 5516,
                     "topics": [
                       "java",
                       "java-library",
@@ -713,7 +713,7 @@
                     "open_issues": 0,
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
-                    "stars": 1191,
+                    "stars": 1192,
                     "topics": [
                       "bot",
                       "cpp",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T11:36:19.454Z",
+    "last_updated": "2026-09-25T11:42:43.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
