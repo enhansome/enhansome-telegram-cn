@@ -19,11 +19,11 @@
                     "id": 38696925,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-23T17:12:10Z",
+                    "last_commit": "2026-09-27T01:22:28Z",
                     "open_issues": 29,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29491,
+                    "stars": 29492,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -185,7 +185,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9205,
+                    "stars": 9207,
                     "topics": [
                       "api",
                       "bot",
@@ -628,7 +628,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5517,
+                    "stars": 5518,
                     "topics": [
                       "java",
                       "java-library",
@@ -688,7 +688,7 @@
                     "open_issues": 168,
                     "owner": "witnessmenow",
                     "repo": "Universal-Arduino-Telegram-Bot",
-                    "stars": 1232,
+                    "stars": 1233,
                     "topics": [
                       "arduino",
                       "telegram",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T11:15:53.285Z",
+    "last_updated": "2026-09-27T11:54:42.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
