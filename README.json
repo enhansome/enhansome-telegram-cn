@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-27T01:22:28Z",
-                    "open_issues": 29,
+                    "open_issues": 31,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
                     "stars": 29492,
@@ -50,7 +50,7 @@
                     "open_issues": 2,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8782,
+                    "stars": 8781,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -185,7 +185,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9207,
+                    "stars": 9208,
                     "topics": [
                       "api",
                       "bot",
@@ -213,7 +213,7 @@
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9191,
+                    "stars": 9192,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -628,7 +628,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5518,
+                    "stars": 5521,
                     "topics": [
                       "java",
                       "java-library",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T11:54:42.401Z",
+    "last_updated": "2026-09-28T13:43:04.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
