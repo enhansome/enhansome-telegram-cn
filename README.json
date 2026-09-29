@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-27T01:22:28Z",
-                    "open_issues": 31,
+                    "open_issues": 32,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29492,
+                    "stars": 29496,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -213,7 +213,7 @@
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9192,
+                    "stars": 9193,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T13:43:04.046Z",
+    "last_updated": "2026-09-29T12:40:53.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
