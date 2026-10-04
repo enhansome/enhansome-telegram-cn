@@ -59,8 +59,8 @@
 
 #### Python
 
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,506 | 🐛 29 | 🌐 Python | 📅 2026-10-01 – 我们已经为你开发了一个你无法拒绝的封装库
-* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,786 | 🐛 2 | 🌐 Python | 📅 2026-09-21 – 一个简单但可扩展的Python实现
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,509 | 🐛 29 | 🌐 Python | 📅 2026-10-01 – 我们已经为你开发了一个你无法拒绝的封装库
+* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,787 | 🐛 2 | 🌐 Python | 📅 2026-09-21 – 一个简单但可扩展的Python实现
 * [telepot](https://github.com/nickoala/telepot) ⚠️ Archived – Telegram Bot API的Python框架
 * [tgbot](https://github.com/PaulSonOfLars/tgbot) ⚠️ Archived - 模块化电报组管理机器人
 * [django-telegram-bot](https://github.com/jlmadurga/django-telegram-bot) ⭐ 142 | 🐛 21 | 🌐 Python | 📅 2022-12-26 – 用于编写Telegram机器人的Django应用程序。只需定义命令以及如何处理它们。
@@ -104,7 +104,7 @@
 
 #### Java
 
-* [TelegramBots](https://github.com/rubenlagus/TelegramBots) ⭐ 5,519 | 🐛 196 | 🌐 Java | 📅 2026-09-07 – 使用 Telegram Bots API 创建机器人的 Java 库
+* [TelegramBots](https://github.com/rubenlagus/TelegramBots) ⭐ 5,521 | 🐛 196 | 🌐 Java | 📅 2026-09-07 – 使用 Telegram Bots API 创建机器人的 Java 库
 * [telegram-api](https://github.com/ex3ndr/telegram-api) ⭐ 142 | 🐛 47 | 🌐 Java | 📅 2017-04-18 – 用于 java 的 Telegram Api库
 
 #### C++
@@ -180,4 +180,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
