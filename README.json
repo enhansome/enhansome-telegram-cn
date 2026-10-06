@@ -47,10 +47,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-09-21T19:05:27Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8788,
+                    "stars": 8787,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -213,7 +213,7 @@
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9196,
+                    "stars": 9197,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -522,10 +522,10 @@
                     "language": "PHP",
                     "license": "MIT",
                     "last_commit": "2025-07-10T12:31:50Z",
-                    "open_issues": 64,
+                    "open_issues": 65,
                     "owner": "TelegramBot",
                     "repo": "Api",
-                    "stars": 1195,
+                    "stars": 1196,
                     "topics": [
                       "api-wrapper",
                       "bot-api",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T14:25:14.839Z",
+    "last_updated": "2026-10-06T10:48:11.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
