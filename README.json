@@ -23,7 +23,7 @@
                     "open_issues": 29,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29510,
+                    "stars": 29509,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -50,7 +50,7 @@
                     "open_issues": 3,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8787,
+                    "stars": 8786,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -102,7 +102,7 @@
                     "open_issues": 9,
                     "owner": "PaulSonOfLars",
                     "repo": "tgbot",
-                    "stars": 755,
+                    "stars": 754,
                     "topics": [
                       "bot",
                       "database",
@@ -213,7 +213,7 @@
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9198,
+                    "stars": 9196,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -331,7 +331,7 @@
                     "open_issues": 381,
                     "owner": "sochix",
                     "repo": "TLSharp",
-                    "stars": 994,
+                    "stars": 993,
                     "topics": [
                       "telegram",
                       "telegram-api",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T13:13:02.802Z",
+    "last_updated": "2026-10-07T13:11:21.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
@@ -828,7 +828,7 @@
       "language": null,
       "license": null,
       "last_commit": "2018-10-26T07:35:46Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "bitmasterv",
       "repo": "awesome-telegram-cn",
       "stars": 187,
