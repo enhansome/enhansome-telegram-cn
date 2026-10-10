@@ -23,7 +23,7 @@
                     "open_issues": 29,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29514,
+                    "stars": 29515,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -50,7 +50,7 @@
                     "open_issues": 3,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8787,
+                    "stars": 8786,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -213,7 +213,7 @@
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9198,
+                    "stars": 9199,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -384,7 +384,7 @@
                     "open_issues": 1,
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
-                    "stars": 1425,
+                    "stars": 1426,
                     "topics": [
                       "ruby",
                       "telegram",
@@ -489,7 +489,7 @@
                     "open_issues": 29,
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3301,
+                    "stars": 3300,
                     "topics": [
                       "bot",
                       "bot-framework",
@@ -558,7 +558,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4634,
+                    "stars": 4635,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -799,7 +799,7 @@
                     "open_issues": 2,
                     "owner": "yanex",
                     "repo": "kotlin-telegram-bot-api",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:06:14.973Z",
+    "last_updated": "2026-10-10T12:22:07.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
@@ -828,7 +828,7 @@
       "language": null,
       "license": null,
       "last_commit": "2018-10-26T07:35:46Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "bitmasterv",
       "repo": "awesome-telegram-cn",
       "stars": 187,
