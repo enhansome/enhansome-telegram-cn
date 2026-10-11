@@ -19,11 +19,11 @@
                     "id": 38696925,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-01T04:06:46Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-10-11T05:56:32Z",
+                    "open_issues": 32,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29515,
+                    "stars": 29517,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -50,7 +50,7 @@
                     "open_issues": 3,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8786,
+                    "stars": 8787,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -213,7 +213,7 @@
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9199,
+                    "stars": 9198,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -489,7 +489,7 @@
                     "open_issues": 29,
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3300,
+                    "stars": 3299,
                     "topics": [
                       "bot",
                       "bot-framework",
@@ -628,7 +628,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5528,
+                    "stars": 5532,
                     "topics": [
                       "java",
                       "java-library",
@@ -799,7 +799,7 @@
                     "open_issues": 2,
                     "owner": "yanex",
                     "repo": "kotlin-telegram-bot-api",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:22:07.973Z",
+    "last_updated": "2026-10-11T12:38:46.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
