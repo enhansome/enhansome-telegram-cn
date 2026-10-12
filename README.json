@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-11T05:56:32Z",
-                    "open_issues": 32,
+                    "open_issues": 33,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29517,
+                    "stars": 29520,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -50,7 +50,7 @@
                     "open_issues": 3,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8787,
+                    "stars": 8789,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -77,7 +77,7 @@
                     "open_issues": 107,
                     "owner": "nickoala",
                     "repo": "telepot",
-                    "stars": 2411,
+                    "stars": 2410,
                     "topics": [
                       "python",
                       "telegram",
@@ -185,7 +185,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9210,
+                    "stars": 9211,
                     "topics": [
                       "api",
                       "bot",
@@ -213,7 +213,7 @@
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9198,
+                    "stars": 9199,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -458,7 +458,7 @@
                     "open_issues": 84,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4018,
+                    "stars": 4019,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T12:38:46.231Z",
+    "last_updated": "2026-10-12T15:12:05.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
@@ -831,7 +831,7 @@
       "open_issues": 7,
       "owner": "bitmasterv",
       "repo": "awesome-telegram-cn",
-      "stars": 187,
+      "stars": 188,
       "topics": [
         "awesome",
         "awesome-list",
