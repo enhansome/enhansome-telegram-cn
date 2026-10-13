@@ -23,7 +23,7 @@
                     "open_issues": 33,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29520,
+                    "stars": 29521,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -185,7 +185,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9211,
+                    "stars": 9212,
                     "topics": [
                       "api",
                       "bot",
@@ -213,7 +213,7 @@
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9199,
+                    "stars": 9200,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -558,7 +558,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4635,
+                    "stars": 4633,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -624,11 +624,11 @@
                     "id": 49610798,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T00:36:48Z",
-                    "open_issues": 196,
+                    "last_commit": "2026-10-13T07:05:11Z",
+                    "open_issues": 194,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5532,
+                    "stars": 5533,
                     "topics": [
                       "java",
                       "java-library",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:12:05.879Z",
+    "last_updated": "2026-10-13T14:03:32.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
