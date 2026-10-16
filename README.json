@@ -23,7 +23,7 @@
                     "open_issues": 33,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29516,
+                    "stars": 29518,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -46,11 +46,11 @@
                     "id": 38095954,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-21T19:05:27Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-15T20:31:35Z",
+                    "open_issues": 3,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8786,
+                    "stars": 8787,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -185,7 +185,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9211,
+                    "stars": 9212,
                     "topics": [
                       "api",
                       "bot",
@@ -384,7 +384,7 @@
                     "open_issues": 1,
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
-                    "stars": 1426,
+                    "stars": 1425,
                     "topics": [
                       "ruby",
                       "telegram",
@@ -458,7 +458,7 @@
                     "open_issues": 84,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4019,
+                    "stars": 4018,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T11:18:54.658Z",
+    "last_updated": "2026-10-16T11:13:36.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
