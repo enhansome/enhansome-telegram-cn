@@ -23,7 +23,7 @@
                     "open_issues": 30,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29525,
+                    "stars": 29529,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -46,8 +46,8 @@
                     "id": 38095954,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-17T13:15:00Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-20T09:50:58Z",
+                    "open_issues": 4,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
                     "stars": 8789,
@@ -102,7 +102,7 @@
                     "open_issues": 9,
                     "owner": "PaulSonOfLars",
                     "repo": "tgbot",
-                    "stars": 755,
+                    "stars": 754,
                     "topics": [
                       "bot",
                       "database",
@@ -213,7 +213,7 @@
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9203,
+                    "stars": 9204,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -558,7 +558,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4632,
+                    "stars": 4628,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -625,7 +625,7 @@
                     "language": "Java",
                     "license": "MIT",
                     "last_commit": "2026-10-13T07:05:11Z",
-                    "open_issues": 194,
+                    "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
                     "stars": 5540,
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T12:56:48.916Z",
+    "last_updated": "2026-10-20T11:24:23.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
