@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-19T01:17:15Z",
-                    "open_issues": 30,
+                    "open_issues": 32,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29529,
+                    "stars": 29526,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -213,7 +213,7 @@
                     "open_issues": 76,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9204,
+                    "stars": 9205,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -628,7 +628,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5540,
+                    "stars": 5541,
                     "topics": [
                       "java",
                       "java-library",
@@ -688,7 +688,7 @@
                     "open_issues": 168,
                     "owner": "witnessmenow",
                     "repo": "Universal-Arduino-Telegram-Bot",
-                    "stars": 1235,
+                    "stars": 1236,
                     "topics": [
                       "arduino",
                       "telegram",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T11:24:23.279Z",
+    "last_updated": "2026-10-21T11:38:42.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
