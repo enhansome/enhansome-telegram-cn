@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-19T01:17:15Z",
-                    "open_issues": 33,
+                    "open_issues": 34,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
                     "stars": 29530,
@@ -46,11 +46,11 @@
                     "id": 38095954,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-20T09:50:58Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-24T10:25:14Z",
+                    "open_issues": 2,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8788,
+                    "stars": 8790,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -77,7 +77,7 @@
                     "open_issues": 107,
                     "owner": "nickoala",
                     "repo": "telepot",
-                    "stars": 2410,
+                    "stars": 2409,
                     "topics": [
                       "python",
                       "telegram",
@@ -185,7 +185,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9212,
+                    "stars": 9214,
                     "topics": [
                       "api",
                       "bot",
@@ -331,7 +331,7 @@
                     "open_issues": 381,
                     "owner": "sochix",
                     "repo": "TLSharp",
-                    "stars": 993,
+                    "stars": 992,
                     "topics": [
                       "telegram",
                       "telegram-api",
@@ -458,7 +458,7 @@
                     "open_issues": 84,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4017,
+                    "stars": 4018,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -489,7 +489,7 @@
                     "open_issues": 29,
                     "owner": "irazasyed",
                     "repo": "telegram-bot-sdk",
-                    "stars": 3298,
+                    "stars": 3299,
                     "topics": [
                       "bot",
                       "bot-framework",
@@ -525,7 +525,7 @@
                     "open_issues": 66,
                     "owner": "TelegramBot",
                     "repo": "Api",
-                    "stars": 1201,
+                    "stars": 1202,
                     "topics": [
                       "api-wrapper",
                       "bot-api",
@@ -558,7 +558,7 @@
                     "open_issues": 66,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4629,
+                    "stars": 4628,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -688,7 +688,7 @@
                     "open_issues": 168,
                     "owner": "witnessmenow",
                     "repo": "Universal-Arduino-Telegram-Bot",
-                    "stars": 1235,
+                    "stars": 1234,
                     "topics": [
                       "arduino",
                       "telegram",
@@ -740,7 +740,7 @@
                     "open_issues": 0,
                     "owner": "StefanoBelli",
                     "repo": "xxtelebot",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": [
                       "api",
                       "bot",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:28:53.350Z",
+    "last_updated": "2026-10-24T10:48:54.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
