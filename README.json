@@ -23,7 +23,7 @@
                     "open_issues": 34,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29530,
+                    "stars": 29532,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -46,11 +46,11 @@
                     "id": 38095954,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-25T09:12:03Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-25T13:40:13Z",
+                    "open_issues": 5,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8790,
+                    "stars": 8791,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -77,7 +77,7 @@
                     "open_issues": 107,
                     "owner": "nickoala",
                     "repo": "telepot",
-                    "stars": 2409,
+                    "stars": 2410,
                     "topics": [
                       "python",
                       "telegram",
@@ -185,7 +185,7 @@
                     "open_issues": 1,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9216,
+                    "stars": 9215,
                     "topics": [
                       "api",
                       "bot",
@@ -213,7 +213,7 @@
                     "open_issues": 77,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9203,
+                    "stars": 9202,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -384,7 +384,7 @@
                     "open_issues": 1,
                     "owner": "atipugin",
                     "repo": "telegram-bot-ruby",
-                    "stars": 1425,
+                    "stars": 1426,
                     "topics": [
                       "ruby",
                       "telegram",
@@ -458,7 +458,7 @@
                     "open_issues": 84,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4018,
+                    "stars": 4017,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T11:14:08.264Z",
+    "last_updated": "2026-10-26T12:48:00.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
