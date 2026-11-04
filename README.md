@@ -59,7 +59,7 @@
 
 #### Python
 
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,548 | 🐛 41 | 🌐 Python | 📅 2026-11-01 – 我们已经为你开发了一个你无法拒绝的封装库
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,554 | 🐛 41 | 🌐 Python | 📅 2026-11-01 – 我们已经为你开发了一个你无法拒绝的封装库
 * [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) ⭐ 8,794 | 🐛 3 | 🌐 Python | 📅 2026-10-31 – 一个简单但可扩展的Python实现
 * [telepot](https://github.com/nickoala/telepot) ⚠️ Archived – Telegram Bot API的Python框架
 * [tgbot](https://github.com/PaulSonOfLars/tgbot) ⚠️ Archived - 模块化电报组管理机器人
@@ -69,7 +69,7 @@
 
 #### Javascript/Node
 
-* [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,217 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-03 – NodeJS的Telegram Bot API
+* [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) ⭐ 9,217 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 – NodeJS的Telegram Bot API
 * [Telegraf](https://github.com/telegraf/telegraf) ⭐ 9,204 | 🐛 79 | 🌐 TypeScript | 📅 2026-09-24 – Telegram bot框架（javascript，node.js）
 * [telegram.link](https://github.com/enricostara/telegram.link) ⭐ 332 | 🐛 27 | 🌐 JavaScript | 📅 2023-07-14 – 电报API库（javascript，node.js）
 * [node-telegram-bot](https://github.com/depoio/node-telegram-bot) ⭐ 137 | 🐛 19 | 🌐 JavaScript | 📅 2016-11-03 – Telegram Bot API的客户端封装
@@ -91,13 +91,13 @@
 
 #### PHP
 
-* [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) ⭐ 4,020 | 🐛 84 | 🌐 PHP | 📅 2025-03-20 – 基于官方Telegram Bot API的PHP Telegram Bot
+* [php-telegram-bot](https://github.com/akalongman/php-telegram-bot) ⭐ 4,019 | 🐛 84 | 🌐 PHP | 📅 2025-03-20 – 基于官方Telegram Bot API的PHP Telegram Bot
 * [telegram-bot-sdk](https://github.com/irazasyed/telegram-bot-sdk) ⭐ 3,299 | 🐛 29 | 🌐 PHP | 📅 2026-08-20 – Telegram Bot API PHP SDK。让您轻松构建Telegram Bots！
 * [TelegramBot/Api](https://github.com/TelegramBot/Api) ⭐ 1,202 | 🐛 66 | 🌐 PHP | 📅 2025-07-10 – Telegram BOT API的原生PHP封装
 
 #### Go
 
-* [telebot](https://github.com/tucnak/telebot) ⭐ 4,628 | 🐛 67 | 🌐 Go | 📅 2026-06-16 – 用Go编写的Telegram bot框架
+* [telebot](https://github.com/tucnak/telebot) ⭐ 4,629 | 🐛 67 | 🌐 Go | 📅 2026-06-16 – 用Go编写的Telegram bot框架
 * [telegram-bot](https://github.com/yagop/telegram-bot) ⚠️ Archived –基于插件的Telegram Bot
 * [gotelebot](https://github.com/eternnoir/gotelebot) ⭐ 21 | 🐛 3 | 🌐 Go | 📅 2021-04-12 – Telegram Bot API的实现
 * [integram](https://integram.org/) – 将Telegram集成到您的工作流程中
@@ -180,4 +180,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

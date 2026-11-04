@@ -23,7 +23,7 @@
                     "open_issues": 41,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29548,
+                    "stars": 29554,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -181,7 +181,7 @@
                     "id": 38216778,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-03T12:11:37Z",
+                    "last_commit": "2026-11-04T01:07:27Z",
                     "open_issues": 0,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
@@ -458,7 +458,7 @@
                     "open_issues": 84,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4020,
+                    "stars": 4019,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -558,7 +558,7 @@
                     "open_issues": 67,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4628,
+                    "stars": 4629,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:01:12.730Z",
+    "last_updated": "2026-11-04T14:19:55.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
