@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-01T02:46:46Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29557,
+                    "stars": 29560,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -185,7 +185,7 @@
                     "open_issues": 0,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9217,
+                    "stars": 9218,
                     "topics": [
                       "api",
                       "bot",
@@ -331,7 +331,7 @@
                     "open_issues": 381,
                     "owner": "sochix",
                     "repo": "TLSharp",
-                    "stars": 990,
+                    "stars": 989,
                     "topics": [
                       "telegram",
                       "telegram-api",
@@ -525,7 +525,7 @@
                     "open_issues": 66,
                     "owner": "TelegramBot",
                     "repo": "Api",
-                    "stars": 1202,
+                    "stars": 1203,
                     "topics": [
                       "api-wrapper",
                       "bot-api",
@@ -628,7 +628,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5548,
+                    "stars": 5547,
                     "topics": [
                       "java",
                       "java-library",
@@ -713,7 +713,7 @@
                     "open_issues": 0,
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
-                    "stars": 1193,
+                    "stars": 1191,
                     "topics": [
                       "bot",
                       "cpp",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T14:30:18.867Z",
+    "last_updated": "2026-11-06T14:08:36.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
@@ -831,7 +831,7 @@
       "open_issues": 5,
       "owner": "bitmasterv",
       "repo": "awesome-telegram-cn",
-      "stars": 189,
+      "stars": 188,
       "topics": [
         "awesome",
         "awesome-list",
