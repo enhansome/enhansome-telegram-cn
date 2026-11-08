@@ -20,7 +20,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-01T02:46:46Z",
-                    "open_issues": 42,
+                    "open_issues": 39,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
                     "stars": 29564,
@@ -50,7 +50,7 @@
                     "open_issues": 3,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8793,
+                    "stars": 8794,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -77,7 +77,7 @@
                     "open_issues": 107,
                     "owner": "nickoala",
                     "repo": "telepot",
-                    "stars": 2408,
+                    "stars": 2407,
                     "topics": [
                       "python",
                       "telegram",
@@ -185,7 +185,7 @@
                     "open_issues": 0,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9218,
+                    "stars": 9216,
                     "topics": [
                       "api",
                       "bot",
@@ -213,7 +213,7 @@
                     "open_issues": 79,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9204,
+                    "stars": 9203,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -458,7 +458,7 @@
                     "open_issues": 84,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4019,
+                    "stars": 4020,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -554,7 +554,7 @@
                     "id": 38069477,
                     "language": "Go",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-06-16T23:24:31Z",
+                    "last_commit": "2026-11-07T21:42:27Z",
                     "open_issues": 68,
                     "owner": "tucnak",
                     "repo": "telebot",
@@ -628,7 +628,7 @@
                     "open_issues": 196,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5545,
+                    "stars": 5548,
                     "topics": [
                       "java",
                       "java-library",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T12:51:38.574Z",
+    "last_updated": "2026-11-08T13:13:39.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
