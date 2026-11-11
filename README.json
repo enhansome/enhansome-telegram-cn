@@ -19,11 +19,11 @@
                     "id": 38696925,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-09T08:09:21Z",
-                    "open_issues": 38,
+                    "last_commit": "2026-11-11T07:56:53Z",
+                    "open_issues": 37,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29572,
+                    "stars": 29575,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -50,7 +50,7 @@
                     "open_issues": 3,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8795,
+                    "stars": 8796,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -213,7 +213,7 @@
                     "open_issues": 79,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9203,
+                    "stars": 9205,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -454,11 +454,11 @@
                     "id": 38116958,
                     "language": "PHP",
                     "license": "MIT",
-                    "last_commit": "2025-03-20T16:07:18Z",
-                    "open_issues": 84,
+                    "last_commit": "2026-11-11T13:59:56Z",
+                    "open_issues": 67,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4020,
+                    "stars": 4019,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -628,7 +628,7 @@
                     "open_issues": 195,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5551,
+                    "stars": 5553,
                     "topics": [
                       "java",
                       "java-library",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T14:45:14.448Z",
+    "last_updated": "2026-11-11T14:03:17.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
