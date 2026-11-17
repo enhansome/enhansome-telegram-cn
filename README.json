@@ -20,10 +20,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-15T03:27:42Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29595,
+                    "stars": 29601,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -50,7 +50,7 @@
                     "open_issues": 5,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8795,
+                    "stars": 8796,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -185,7 +185,7 @@
                     "open_issues": 0,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9215,
+                    "stars": 9216,
                     "topics": [
                       "api",
                       "bot",
@@ -331,7 +331,7 @@
                     "open_issues": 381,
                     "owner": "sochix",
                     "repo": "TLSharp",
-                    "stars": 989,
+                    "stars": 988,
                     "topics": [
                       "telegram",
                       "telegram-api",
@@ -458,7 +458,7 @@
                     "open_issues": 11,
                     "owner": "php-telegram-bot",
                     "repo": "core",
-                    "stars": 4018,
+                    "stars": 4017,
                     "topics": [
                       "bot-api",
                       "hacktoberfest",
@@ -624,11 +624,11 @@
                     "id": 49610798,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T08:36:27Z",
+                    "last_commit": "2026-11-16T19:37:18Z",
                     "open_issues": 195,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5556,
+                    "stars": 5559,
                     "topics": [
                       "java",
                       "java-library",
@@ -709,7 +709,7 @@
                     "id": 38309014,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-03T07:39:59Z",
+                    "last_commit": "2026-11-17T08:44:50Z",
                     "open_issues": 0,
                     "owner": "reo7sp",
                     "repo": "tgbot-cpp",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T15:33:31.145Z",
+    "last_updated": "2026-11-17T15:52:53.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
