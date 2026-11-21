@@ -23,7 +23,7 @@
                     "open_issues": 42,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29608,
+                    "stars": 29614,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -50,7 +50,7 @@
                     "open_issues": 5,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8795,
+                    "stars": 8796,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -185,7 +185,7 @@
                     "open_issues": 0,
                     "owner": "yagop",
                     "repo": "node-telegram-bot-api",
-                    "stars": 9217,
+                    "stars": 9218,
                     "topics": [
                       "api",
                       "bot",
@@ -213,7 +213,7 @@
                     "open_issues": 81,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9211,
+                    "stars": 9212,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -558,7 +558,7 @@
                     "open_issues": 59,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4635,
+                    "stars": 4637,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -628,7 +628,7 @@
                     "open_issues": 195,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
-                    "stars": 5561,
+                    "stars": 5560,
                     "topics": [
                       "java",
                       "java-library",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T15:19:07.646Z",
+    "last_updated": "2026-11-21T14:32:34.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
