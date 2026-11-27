@@ -19,11 +19,11 @@
                     "id": 38696925,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-22T00:33:59Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-11-27T10:15:17Z",
+                    "open_issues": 35,
                     "owner": "python-telegram-bot",
                     "repo": "python-telegram-bot",
-                    "stars": 29617,
+                    "stars": 29618,
                     "topics": [
                       "bot",
                       "chatbot",
@@ -46,11 +46,11 @@
                     "id": 38095954,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-23T17:31:24Z",
+                    "last_commit": "2026-11-26T18:24:23Z",
                     "open_issues": 6,
                     "owner": "eternnoir",
                     "repo": "pyTelegramBotAPI",
-                    "stars": 8801,
+                    "stars": 8802,
                     "topics": [
                       "bot-api",
                       "python-api",
@@ -209,11 +209,11 @@
                     "id": 56398352,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T03:26:07Z",
-                    "open_issues": 81,
+                    "last_commit": "2026-11-27T16:03:00Z",
+                    "open_issues": 80,
                     "owner": "telegraf",
                     "repo": "telegraf",
-                    "stars": 9212,
+                    "stars": 9213,
                     "topics": [
                       "bot",
                       "bot-api",
@@ -558,7 +558,7 @@
                     "open_issues": 59,
                     "owner": "tucnak",
                     "repo": "telebot",
-                    "stars": 4651,
+                    "stars": 4654,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:34:24.605Z"
@@ -625,7 +625,7 @@
                     "language": "Java",
                     "license": "MIT",
                     "last_commit": "2026-11-24T22:58:24Z",
-                    "open_issues": 194,
+                    "open_issues": 193,
                     "owner": "rubenlagus",
                     "repo": "TelegramBots",
                     "stars": 5561,
@@ -688,7 +688,7 @@
                     "open_issues": 168,
                     "owner": "witnessmenow",
                     "repo": "Universal-Arduino-Telegram-Bot",
-                    "stars": 1238,
+                    "stars": 1237,
                     "topics": [
                       "arduino",
                       "telegram",
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T16:45:07.854Z",
+    "last_updated": "2026-11-27T16:31:08.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "telegram 开发资源、机器人资源整理",
